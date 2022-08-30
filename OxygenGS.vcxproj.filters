@@ -31,6 +31,9 @@
     <ClInclude Include="patterns.h">
       <Filter>UE4\Patterns</Filter>
     </ClInclude>
+    <ClInclude Include="hooks.h">
+      <Filter>UE4\Hooks</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
