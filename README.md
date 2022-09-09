@@ -6,3 +6,5 @@ A lot of this code (specifically pattern scanning and function hooking) comes fr
 If I , for whatever reason , use anyone else's code in this as well I will be sure to credit them here as well as near the part where I use their code in the source code
 
 hello - CallyHam
+
+hi - CoolNite
